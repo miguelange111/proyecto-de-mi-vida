@@ -1,0 +1,7 @@
+@media screen and (max-width: 490px ){
+    .proceso-img {
+        grid-template-columns: repeat(1, 1fr);
+        margin: initial;
+        margin: 3% auto;
+    }
+}

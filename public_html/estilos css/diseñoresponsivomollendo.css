@@ -1,0 +1,12 @@
+@media screen and (max-width: 973px ){
+    .contenedor {
+        grid-template-columns: repeat(2, 1fr);
+        margin: inherit;
+    }
+}
+@media screen and (max-width: 515px ){
+    .contenedor {
+        grid-template-columns: repeat(1, 1fr);
+        margin: initial;
+    }
+}
